@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+ ! Excerpted from "Grails: A Quickstart Guide",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/dkgrails for more book information.
+-->
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="0" name="MessageTests" package="" tests="1" time="0.304" timestamp="2009-07-26T22:51:49">
+      <properties />
+
+      <testcase classname="MessageTests" name="testSomething" time="0.304" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="1" name="SponsorControllerTests" package="" tests="1" time="0.0080" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="SponsorControllerTests" name="testSomething" time="0.0080" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="2" name="SponsorTests" package="" tests="1" time="0.01" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="SponsorTests" name="testSomething" time="0.01" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="3" name="SponsorshipTests" package="" tests="1" time="0.0040" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="SponsorshipTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="4" name="TaskTests" package="" tests="1" time="0.0040" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="TaskTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="5" name="TekEventControllerTests" package="" tests="1" time="0.648" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="TekEventControllerTests" name="testSomething" time="0.647" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="6" name="TekEventTests" package="" tests="1" time="0.076" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="TekEventTests" name="testToString" time="0.076" />
+
+      <system-out><![CDATA[--Output from testToString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testToString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="7" name="TekUserControllerTests" package="" tests="1" time="0.106" timestamp="2009-07-26T22:51:50">
+      <properties />
+
+      <testcase classname="TekUserControllerTests" name="testSomething" time="0.105" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Klein-MacBook-Pro.local" id="8" name="TekUserTests" package="" tests="1" time="0.024" timestamp="2009-07-26T22:51:51">
+      <properties />
+
+      <testcase classname="TekUserTests" name="testSomething" time="0.024" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
